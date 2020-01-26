@@ -1,27 +1,15 @@
-# Abandoned
-
-All good things must come to an end. The sad fact is that I don't have time to maintain this package, so the release of Laravel 6 is as good as any to make a clean break. You should take a look at the forks to see if anyone is carrying on the torch.
-
-Thanks to everyone for sticking by this package for years!
-
 Recaptcha
 =========
 
-A reCAPTCHA Validator for Laravel 5. 
+A reCAPTCHA Validator for Laravel 5 and Laravel 6. 
 
-> (Looking for a Laravel 4 version? Pull the latest 1.x tag. For Laravel 5.0, pull the latest 2.0 tag.)
+> (Looking for a Laravel 4 version? Pull the latest 1.x tag. For Laravel 5.0 or Laravel 6.0, pull the latest 2.0 tag.)
 
 ## Installation
 
-Add the following line to the `require` section of `composer.json`:
+Run `composer require al3xable/recaptcha`.
 
-```json
-{
-    "require": {
-        "greggilbert/recaptcha": "dev-master"
-    }
-}
-```
+Based on https://github.com/greggilbert/recaptcha
 
 ## Setup
 
